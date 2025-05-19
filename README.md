@@ -16,6 +16,7 @@
 
 ---
 
+![1.1](https://github.com/Ivan-Shkutov/sdb-homeworks-12-04/blob/main/jpg/1.1.jpg).
 
 ---
 
