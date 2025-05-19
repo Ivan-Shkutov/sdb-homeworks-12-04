@@ -30,6 +30,9 @@
 
 ---
 
+![2.1](https://github.com/Ivan-Shkutov/sdb-homeworks-12-04/blob/main/jpg/2.1.jpg)
+
+![2.2](https://github.com/Ivan-Shkutov/sdb-homeworks-12-04/blob/main/jpg/2.2.jpg)
 
 ---
 
@@ -39,5 +42,8 @@
 
 ---
 
+![3.1](https://github.com/Ivan-Shkutov/sdb-homeworks-12-04/blob/main/jpg/3.1.jpg)
+
+![3.2](https://github.com/Ivan-Shkutov/sdb-homeworks-12-04/blob/main/jpg/3.2.jpg)
 
 ---
