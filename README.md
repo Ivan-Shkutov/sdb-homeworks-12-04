@@ -69,20 +69,8 @@ WHERE f.length > (SELECT AVG(length) FROM film f)
 
 ---
 
-![3.1](https://github.com/Ivan-Shkutov/sdb-homeworks-12-04/blob/main/jpg/3.1.jpg)
+![3.1](https://github.com/Ivan-Shkutov/sdb-homeworks-12-04/blob/main/jpg/1.jpg)
 
-![3.2](https://github.com/Ivan-Shkutov/sdb-homeworks-12-04/blob/main/jpg/3.2.jpg)
-
-
-SELECT MONTH(payment_date) AS Номер_месяца_в_году, COUNT(payment_id) As Информация_по_количеству_аренд_за_этот_месяц, SUM(amount) AS Наибольшая_сумма_платежей
-
-FROM payment
-
-GROUP BY MONTH(payment_date) 
-
-ORDER BY COUNT(payment_id) DESC LIMIT 1
-
-;
-
+![3.2](https://github.com/Ivan-Shkutov/sdb-homeworks-12-04/blob/main/jpg/2.jpg)
 
 ---
